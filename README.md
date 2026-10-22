@@ -48,3 +48,7 @@ Wait for polling or click **Build Now**. Show the new build and JAR artifact.
 
 ## Result
 Jenkins checks out the Java project from GitHub, compiles it and packages it as a JAR using Maven.
+
+## Feature 1 - CI Improvements
+- Added Java build automation using Maven.
+- Jenkins compiles and packages the application.
