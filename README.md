@@ -52,3 +52,4 @@ Jenkins checks out the Java project from GitHub, compiles it and packages it as 
 ## Feature 2 - Build Monitoring
 - Jenkins monitors GitHub for source changes.
 - Build results are available in Console Output.
+
