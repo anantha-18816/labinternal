@@ -51,4 +51,5 @@ Jenkins checks out the Java project from GitHub, compiles it and packages it as 
 
 ## Feature 1 - CI Improvements
 - Added Java build automation using Maven.
-- Jenkins compiles and packages the application.
+- Jenkins compiles Java and creates a JAR.
+
