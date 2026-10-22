@@ -48,3 +48,7 @@ Wait for polling or click **Build Now**. Show the new build and JAR artifact.
 
 ## Result
 Jenkins checks out the Java project from GitHub, compiles it and packages it as a JAR using Maven.
+
+## Feature 2 - Build Monitoring
+- Jenkins monitors GitHub for source changes.
+- Build results are available in Console Output.
